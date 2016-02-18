@@ -22,5 +22,6 @@ public class CPF {
 		    cpf[10]=0;
 		}
 		System.out.println(aString);
+		System.out.println(aString.length());
 	}
 }
