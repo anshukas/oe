@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+<product>
+	<attrs>
+		<name>productId</name>
+		<values>123-456-777</values>
+	</attrs>
+	<attrs>
+		<name>brand</name>
+		<values>Nike</values>
+	</attrs>
+</product>
+<product>
+	<attrs>
+		<name>productId</name>
+		<values>123-456-00</values>
+	</attrs>
+	<attrs>
+		<name>brand</name>
+		<values>US Polo</values>
+	</attrs>
+</product>
+</products>
