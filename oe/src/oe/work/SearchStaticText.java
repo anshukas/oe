@@ -3,7 +3,7 @@ package oe.work;
 /**
  * This works on Java 1.7
  */
-
+/*
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -106,3 +106,4 @@ public class SearchStaticText {
 		return false;
 	} 
 }
+*/
